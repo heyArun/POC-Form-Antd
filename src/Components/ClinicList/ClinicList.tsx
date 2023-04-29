@@ -122,7 +122,6 @@ function ClinicList() {
             layout="vertical"
             initialValues={{ requiredMarkValue: requiredMark }}
             onValuesChange={onRequiredTypeChange}
-            // requiredMark={requiredMark}
             onFinish={()=>alert("Success")}
           >
             <Row style={{ padding: "14px" }}>
