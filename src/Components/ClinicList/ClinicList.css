@@ -1,0 +1,154 @@
+.ant-upload-select {
+  height: 130px !important;
+  width: 100% !important;
+}
+.cliniclog-container .clinic-log-content {
+  color: #6cb3de;
+  margin-top: 8px;
+  font-size: 12px;
+  font-weight: 500;
+}
+.upload-logo-file .ant-form-item {
+  margin-bottom: 5px !important;
+  margin-top: 7px !important;
+}
+.cliniclog-container .upload-description {
+  font-size: 11px;
+  text-align: center;
+  color: #c0c0c0;
+  font-weight: 500;
+}
+.cliniclog-container .cliniclist-fields {
+  padding: 0 20px;
+}
+.clinic-inputfield .ant-form-item-control-input-content input {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-radius: 0 !important;
+  padding: 0px !important;
+  font-size: 12px !important;
+  box-shadow: none !important;
+}
+.clinic-inputfield .ant-input-number-group .ant-input-number-group-addon,
+.clinic-inputfield .ant-input-number-in-form-item {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-radius: 0 !important;
+  padding: 0px !important;
+  font-size: 12px !important;
+  box-shadow: none !important;
+
+  /* border-bottom: 2px solid #d9d9d9; */
+}
+.clinic-inputfield .ant-input-number-group .ant-input-number-group-addon{
+   border-bottom: 3px solid #d9d9d9 !important;
+}
+
+.ant-select-selector {
+  background: #ffffff !important;
+}
+
+.ant-select:not(.ant-select-customize-input) .ant-select-selector {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-radius: 0 !important;
+  padding: 0px !important;
+  font-size: 12px !important;
+  box-shadow: none !important;
+}
+.ant-form-item-required,
+.clinic-inputfield label,
+.color-picker label {
+  font-size: 9px !important;
+  font-weight: 600;
+  color: #d0d6df !important;
+}
+.ant-form-item-label {
+  padding: 0 !important;
+}
+.ant-form-item-explain-error {
+  font-size: 8px !important;
+  font-weight: 600;
+}
+
+.color-picker .ant-input-group-addon {
+  padding: 0 !important;
+}
+
+.clicnic-footer {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 20px !important;
+  margin-right: 14px;
+}
+
+.clicnic-footer .save-and-proceed-cta {
+  font-size: 11px;
+  background-color: #414141;
+  color: #cbcbcb;
+  font-weight: 500;
+  border-radius: 30px;
+}
+.cancel-cta span {
+  text-decoration: underline;
+  color: #414141;
+  font-weight: 500;
+  font-size: 12px;
+  margin: 0 10px;
+}
+.add-more-mobilenumber {
+  padding: 0 0 10px 0 !important;
+}
+.add-more-mobilenumber span {
+  cursor: pointer;
+  text-decoration: underline;
+  color: #60c3ff;
+  font-size: 12px;
+  font-weight: 500;
+  margin-left: 5px;
+}
+.about-clinic img {
+  width: 100%;
+}
+.cliniclog-container .about-clinic {
+  border-right: 2px solid #ebeef2;
+}
+.cliniclog-container .add-clinic {
+  padding: 13px 0;
+  font-size: 12px;
+  font-weight: 500;
+  color: #6e7173;
+}
+
+.ant-steps-item-title,
+.ant-steps-item-content {
+  font-size: 9px !important;
+  min-height: 35px !important;
+}
+
+.clinic-customize-theme label {
+  font-size: 11px;
+}
+.clinic-customize-theme label span {
+  color: #a6a6a6 !important;
+}
+.color-picker input {
+  font-size: 12px !important;
+}
+
+.ant-form-item-required {
+  display: flex;
+  /* align-items: center; */
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+}
+.ant-form-item-required::before {
+  margin-left: 5px !important;
+}
+
+
+/* .clinic-inputfield .ant-input-number-group-addon */
